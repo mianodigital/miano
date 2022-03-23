@@ -1836,6 +1836,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"miano@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "miano@workspace:."
+  dependencies:
+    prettier: ^2.6.0
+    turbo: latest
+  languageName: unknown
+  linkType: soft
+
 "micromatch@npm:^4.0.4":
   version: 4.0.4
   resolution: "micromatch@npm:4.0.4"
@@ -2870,15 +2879,6 @@ __metadata:
   checksum: fe98853e8828fd700fabbc465c794f5eee85cb4622ee033b2c475763b47c0af88bbec1f0f8750eb04e86e0acf1bf27ffaa3c925ac864b4b9b8f52a62218f065b
   languageName: node
   linkType: hard
-
-"turborepo-basic-shared@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "turborepo-basic-shared@workspace:."
-  dependencies:
-    prettier: ^2.6.0
-    turbo: latest
-  languageName: unknown
-  linkType: soft
 
 "type-check@npm:^0.4.0, type-check@npm:~0.4.0":
   version: 0.4.0
